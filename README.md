@@ -1,6 +1,6 @@
 # Press this to run the code:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeanpierredebs/UniLaSalle/blob/main/coffee-moisture-ftnir-notebook.ipynb)---
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jeanpierredebs/UniLaSalle/blob/main/coffee-moisture-ftnir-notebook.ipynb)
+---
 ## Project Run & Review Guide
 
 ### 1. How to Run the Code
